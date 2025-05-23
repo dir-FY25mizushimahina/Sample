@@ -19,7 +19,6 @@ public class Variable {
         System.out.print(str1);
         System.out.print(str1);
 
-        
     }
 
 }
