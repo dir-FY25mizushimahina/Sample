@@ -17,6 +17,8 @@ public class Logical {
         System.out.print("scoreが60以上ではない:");
         System.out.println(!(score>=60));
         
+     
+        
         
     }
 

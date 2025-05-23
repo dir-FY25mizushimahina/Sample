@@ -27,6 +27,7 @@ public class Calc {
         System.out.println("num1 % num2=" + result5);
         
         
+        
 
     }
 
