@@ -14,6 +14,7 @@ public class IfSample {
         }else {
             System.out.println("赤点です。。。");
             
+     
         }}}
             
             

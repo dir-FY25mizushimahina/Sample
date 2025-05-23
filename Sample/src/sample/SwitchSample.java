@@ -12,7 +12,7 @@ public class SwitchSample {
         default->System.out.println("赤点です。。。");
         }
         
-
     }
-
 }
+
+
